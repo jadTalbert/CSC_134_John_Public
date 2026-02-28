@@ -15,7 +15,7 @@ int main(){
         cout << "The loop executed " << count << " times." << endl; // display result to user
     }
 
-    
+
     return 0;
 
 }
